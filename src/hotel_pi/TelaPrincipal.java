@@ -89,7 +89,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
         jToggleButton1.setText("jToggleButton1");
         desktopPane.add(jToggleButton1);
-        jToggleButton1.setBounds(250, 150, 111, 28);
+        jToggleButton1.setBounds(250, 140, 111, 28);
 
         fileMenu.setMnemonic('f');
         fileMenu.setText("File");
